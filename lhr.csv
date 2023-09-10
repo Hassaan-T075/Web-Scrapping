@@ -1,0 +1,185 @@
+,ID,Name,Designation,Email,Department,Image
+1,1238,Dr. Kashif Zafar,Professor & HOD,kashif.zafar@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/02_-_Dr._Kashif_Zafar_Prof__HoD_CS.png
+2,4391,Dr. Asif Mahmood Gillani,Professor,asif.gilani@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/03_-_Dr._Asif_Mahmood_Gilani_Professor_CS.JPG
+3,5424,Dr. Hammad Naveed,Professor,hammad.naveed@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/01_-_Dr._Hammad_Naveed_Professor_CS__Director.JPG
+4,4027,Dr. Aamir Wali,Associate Professor,aamir.wali@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/44_-_Dr._Aamir_Wali_Asst_Prof__HoD_AIDS.JPG
+5,6174,Dr. Arshad Ali,Associate Professor,arshad.ali1@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/04_-_Dr._Arshad_Ali_Assoc._Prof_CS.JPG
+6,6113,Dr. Asma Naseer,Associate Professor,asma.naseer@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/Dr_Asma_Naseer-removebg-preview.png
+7,9538,Dr. Irfan Younas,Associate Professor,irfan.younas@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/007_Dr._Irfan_Younas_AP_CS-removebg-preview.jpg
+8,5181,Dr. Rana Asif Rehman,Associate Professor,r.asif@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/06_-_Dr._Rana_Asif_Rehman_Assoc._Prof_CS.JPG
+9,4261,Dr. Saira Karim,Associate Professor,saira.karim@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/07_-_Dr._Saira_Karim_Asst_Prof_CS.JPG
+10,4329,Dr. Zareen Alamgir,Associate Professor,zareen.alamgir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/05_-_Dr._Zareen_Alamgir_Assoc_Prof._CS.JPG
+11,9113,Dr. Ali Afzal Malik,Assistant Professor,ali.afzal@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/55_-_Dr._Ali_Afzal_Malik_Asst_Prof_SE.JPG
+12,6418,Dr. Ammar Haider,Assistant Professor,ammar.haider@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/16-_Dr._Ammar_Haider_Asst._Prof._CS.JPG
+13,4335,Dr. Asma Ahmad,Assistant Professor,asma.ahmad@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/47_-_Dr._Asma_Ahmad_Asst_Prof_AIDS.jpg
+14,6667,Dr. Faisal Aslam,Assistant Professor,faisal.aslam@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6667_2.png
+15,4677,Dr. Farooq Ahmed,Assistant Professor,farooq.ahmad@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/54_-_Dr._Farooq_Ahmed_Asst._Prof.__HoD_SE.JPG
+16,6562,Dr. Hajra Waheed,Assistant Professor,hajra.waheed@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/48_-_Dr._Hajra_Waheed_Asst_Prof_AI-DS.JPG
+17,9539,Dr. Haroon Mahmood,Assistant Professor,haroon.mahmood@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/08_-_Dr._Haroon_Mahmood_Asst_Prof_CS.JPG
+18,6273,Dr. Iqra Safder,Assistant Professor,iqra.safder@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/13_-_Dr._Iqra_Safdar_Asst_Prof_CS.JPG
+19,9540,Dr. Maryam Bashir,Assistant Professor,maryam.bashir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/45_-_Dr._Maryam_Bashir_Asst_Prof_AIDS.JPG
+20,5114,Dr. Mirza Mubasher Baig,Assistant Professor,mubasher.baig@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/46-_Dr._Mirza_Mubasher_Baig_Asst._Prof._AI-DS.JPG
+21,6302,Dr. Syed Mohammad Irteza,Assistant Professor,m.Irteza@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6302_5wrK2JS.png
+22,6255,Dr. Tahir Ejaz,Assistant Professor,tahir.ejaz@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/12_-_Dr._Tahir_Ejaz_Asst_Prof_CS.JPG
+23,6048,Dr. Zeeshan Ali Khan,Assistant Professor,zeeshanali.khan@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/10_-_Dr._Zeeshan_Ali_Khan_Asst_Prof_CS.JPG
+24,5466,Dr. Zeeshan Ali Rana,Assistant Professor,zeeshan.rana@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/56_-_Dr._Zeeshan_Ali_Rana_Asst_Prof_SE.JPG
+25,5116,Dr. Aatira Anum,Lecturer,aatira.anum@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/Aatira_Anum.jpg
+26,3720,Mr. Aamir Raheem,Assistant Professor,aamir.raheem@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/18-_Aamir_Raheem_Asst._Prof._CS.JPG
+27,5054,Ms. Abeeda Akram,Assistant Professor,abeeda.akram@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/22-_Abeeda_Akram_Asst._Prof._CS.JPG
+28,4015,Mr. Ishaq Raza,Assistant Professor,ishaq.raza@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/17_-_Ishaq_Raza_Asst_Prof_CS.JPG
+29,4507,Ms. Lehmia Kiran,Assistant Professor,lehmia.kiran@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/027_Lehmia_Kiran_AP_CS-removebg-preview.png
+30,4236,Mr. Muhammad Ahmad Raza,Assistant Professor,muhammad.ahmadraza@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/4236_DlE9anc.jpg
+31,5221,Ms. Noshaba Nasir,Assistant Professor,noshaba.nasir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/028_Noshaba_Nasir_AP_CS-removebg-preview_1.png
+32,5254,Mr. Omer Ali,Assistant Professor,ali.omer@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/5254_bXX2QKF.jpg
+33,5115,Ms. Samin Iftikhar,Assistant Professor,samin.iftikhar@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/images.jpeg-5-removebg-preview.png
+34,4232,Ms. Sobia Tariq Javed,Assistant Professor,sobia.tariq@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/21_-_Sobia_Tariq_Javed_Asst_Prof_CS.JPG
+35,6175,Ms. Tahreem Yasir,Assistant Professor,tahreem.yasir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6175-removebg-preview-removebg-preview.png
+36,5230,Mr. Waqas Manzoor,Assistant Professor,waqas.manzoor@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/20_-_Waqas_Manzoor_Asst_Prof_CS.JPG
+37,6172,Ms. Aleena Ahmad,Lecturer,aleena.ahmad@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/28_-_Aleena_Ahmad_Lecturer_CS_eicLpEA.JPG
+38,6311,Ms. Anosha Khan,Lecturer,anosha.khan@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/60-_Anosha_Khan_Lecturer_SE.JPG
+39,6305,Ms. Arooj Khalil,Lecturer,arooj.khalil@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/59-_Arooj_Khalil_Lecturer_SE.JPG
+40,6723,Ms. Asbah Khalid,Lecturer,asbah.khalid@lhr.nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6723.jpg
+41,6553,Mr. Danyal Farhat,Lecturer,danyal.farhat@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6553.jpg
+42,6274,Mr. Fraz Yousaf,Lecturer,fraz.yousaf@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/61_-_Fraz_Yousaf_Lecturer_SE.JPG
+43,6308,Mr. Hafiz Muhammad Usama Hassan Alvi,Lecturer,usama.hassan@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/24_-_Usama_Hassan_Alvi_Lecturer_CS.JPG
+44,6306,Ms. Hafsa Tariq Javed,Lecturer,hafsa.tariq@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/04-Hafsa_Tariq_Javed-removebg-preview-removebg-preview.png
+45,6307,Mr. Hamad Ul Qudous,Lecturer,hamad.ulqudous@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/51-_Hamad_Ul_Qudous_Lecturer_AI-DS.JPG
+46,6551,Ms. Hina Iqbal,Lecturer,hina.iqbal@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/54-_Hina_Iqbal_Lecturer_SE.JPG
+47,6419,Ms. Hira Butt,Lecturer,hira.butt@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/37_-_Hira_Butt_Jun._Lecturer_CS_lxWdszd.JPG
+48,6304,Ms. Hira Ilyas,Lecturer,hira.ilyas@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6304-removebg-preview-removebg-preview.png
+49,6588,Mr. M. Saif Ul Islam,Lecturer,muhammad.saif@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/31-_M._Saif_Ul_Islam_Lecturer_CS.JPG
+50,6277,Ms. Maham Naeem,Lecturer,maham.naeem@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6277.jpg
+51,6549,Ms. Mamoona Majid,Lecturer,mamoona.majid@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/65_-_Mamoona_Majid_Lecturer_SE.JPG
+52,6560,Ms. Mehroze Khan,Lecturer,mehroze.khan@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/66_-_Mehroze_Khan_Lecturer_SE.JPG
+53,6295,Ms. Momna Zaneb,Lecturer,momna.zaneb@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/58_-_Momna_Zaneb_Lect_SE.jpg
+54,6415,Mr. Mubashar Hussain,Lecturer,mubashar.hussain@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/30_-_Mubashar_HussaIn_Lecturer_CS.jpg
+55,6114,Mr. Muhammad Naveed,Lecturer,muhammad.naveed@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/27_-_Muhammad_Naveed_Lecturer_CS.JPG
+56,6662,Mr. Muhammad Zeeshan Nazar,Lecturer,zeeshan.nazar@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6662.png
+57,6554,Ms. Namra Absar,Lecturer,namra.absar@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6554.jpg
+58,5967,Mr. Razi-uddin,Lecturer,razi.uddin@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/57_-_Razi_Uddin_Lecturer_SE.JPG
+59,6552,Ms. Rubab Anam Janjua,Lecturer,rubab.anam@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6552.jpg
+60,6268,Mr. Saifullah Tanvir,Lecturer,saifullah.tanvir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/26_-_Saifullah_Tanvir_Lecturer_CS.jpg
+61,6171,Ms. Sana Fatima,Lecturer,sana.fatima@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/49-_Sana_Fatima_Lecturer_AI-DS.JPG
+62,6309,Mr. Syed Uzair Hussain Naqvi,Lecturer,uzair.naqvi@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/25_-_Syed_Uzair_Hussain_Lecturer_CS.JPG
+63,6254,Ms. Syeda Tayyaba Bukhari,Lecturer,tayyaba.bukhari@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/50_-_Syeda_Tayyaba_Bukhari_Lecturer_AIDS.JPG
+64,6066,Ms. Tazeem Haider,Lecturer,tazeem.haider@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/52-_Tazeem_Haider_Lecturer_AI-DS_WyQbhRR.JPG
+65,6559,Ms. Umm E Ammarah,Lecturer,umme.ammarah@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/53-_Umm_e_Ammarah_Lecturer_AI-DS.JPG
+66,6422,Mr. Junaid Hussain Muzammal,Instructor,junaid.hussain@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/Junaid_Hussain_Muzammal.jpg
+67,6144,Mr. Muhammad Mazarib,Instructor,muhammad.mazarib@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/43_-_Muhammad_Mazarib_Instructor_CS.png
+68,6722,Mr. Muhammad Usman Anwer,Instructor,usman.anwer@lhr.nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6722.png
+69,6719,Ms. Seemab Ayub,Instructor,seemab.ayub@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6719.jpg
+70,6417,Mr. Sohaib Ahmad,Instructor,sohaib.ahmad@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/Sohaib_Ahmad.jpg
+71,6718,Ms. Sukhan Amir,Instructor,sukhan.amir@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6718.png
+72,6568,Ms. Syeda Zehra Batool,Instructor,zehra.batool@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6568.jpg
+73,6663,Ms. Zoha Waheed,Instructor,zoha.waheed@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/6663.png
+74,6253,Ms. Mamoona Akbar Khan,Junior Lecturer,mamoona.akbar@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/38-_Mamoona_Akbar_Jun._Lecturer_CS.JPG
+75,6176,Mr. Nauman Moazzam Hayat,Adj. Faculty,nauman.moazzam@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/23_-_Nauman_Moazzam_Hayat_Ad._Faculty_CS.jpg
+76,5986,Mr. Salman Shoaib,Junior Lecturer,salman.shoaib@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/40_-_Salman_Shoaib_Instructor_CS.JPG
+77,6558,Ms. Samman Ashraf,Junior Lecturer,samman.ashraf@nu.edu.pk,fsc,https://lhr.nu.edu.pk/media/Faculty/39-_Samman_Ashraf_Jun._Lect._CS.JPG
+78,4198,Dr. Saima Zafar,Professor & HOD,saima.zafar@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/73_-_Dr._Saima_Zafar.JPG
+79,4108,Dr. S.M. Sajid,Professor,sm.sajid@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/92_-_Dr._S.M._Sajid_Professor_EE.JPG
+80,5421,Dr. Syed Aun Abbas,Professor,aun.abbas@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/93_-_Dr._Aun_Abbas_Professor_EE.JPG
+81,4980,Dr. Mohsin Kamal,Associate Professor,mohsin.kamal@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/96_-_Dr._Mohsin_Kamal_Asst_Prof_EE.JPG
+82,6414,Dr. Jabran Khan,Assistant Professor,jabran.khan@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/Dr._Jabran_Khan.png
+83,9452,Dr. Kashif Saeed,Assistant Professor,kashif.saeed@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/94_-_Dr._Kashif_Saeed_Asst_Prof._EE.JPG
+84,4609,Dr. Omer Saleem,Assistant Professor,omer.saleem@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/95_-_Dr._Omer_Saleem_Asst_Prof_EE.JPG
+85,4023,Mr. Abdul Majid,Assistant Professor,abdul.majid@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/98_-_Abdul_Majid_Asst_Prof_EE.JPG
+86,4233,Ms. Beenish Fatima,Assistant Professor,beenish.fatima@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/102_-_Beenish_Fatima_Asst_Prof_EE.JPG
+87,4234,Ms. Bushra Rashid,Assistant Professor,bushra.rashid@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/104-_Bushra_Rashid_Asst._Prof._EE.JPG
+88,3669,Mr. Haris Mujtaba,Assistant Professor,haris.kazmi@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/103_-_Syed_Haris_Mujtaba_Asst_Prof_EE.JPG
+89,3455,Mr. Kamran Jamal,Assistant Professor,kamran.jamal@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/97_-_Kamran_Jamal_Asst_Prof_EE.JPG
+90,4239,Ms. Maimoona Akram,Assistant Professor,maimoona.akram@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/105-_Maimoona_Akram_Asst._Prof._EE.JPG
+91,3461,Mr. Mohsin Yousaf,Assistant Professor,mohsin.yousuf@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/100_-_Mohsin_Yousaf_Asst_Prof_EE.JPG
+92,4484,Ms. Shazia Haque,Assistant Professor,shazia.haque@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/99_-_Shazia_Haque_Asst_Prof_EE_KlhDgvG.JPG
+93,3778,Ms. Tamania Javed,Assistant Professor,tamania.javaid@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/101_-_Tamania_Javaid_Asst_Prof_EE.JPG
+94,4394,Ms. Tooba Javed,Assistant Professor,tooba.javed@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/4394.jpg
+95,3779,Ms. Akbare Yaqub,Lecturer,akbari.yaqoob@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/106_-_Akbare_Yaqub_Lecturer_EE.JPG
+96,5218,Ms. Aroosa Umair,Lecturer,aroosa.umair@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/109_-_Aroosa_Umair_Lecturer_EE.JPG
+97,5708,Mr. Hamza Yousaf,Lecturer,hamza.yousuf@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/112_-_Hamza_Yousuf_Lab_Engg_EE.JPG
+98,4938,Ms. Samia Mahmood,Lecturer,samia.mahmood@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/107_-_Samia_Mahmood_Lecturer_EE.JPG
+99,4809,Ms. Sara Kiran,Lecturer,sara.kiran@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/108-_Sara_Kiran_Lectuer_EE.JPG
+100,5231,Mr. Syed Muhammad Ismail,Lecturer,muhammad.ismail@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/110-_Syed_M._Ismail_Lecturer_EE.JPG
+101,6557,Mr. Umer Altaf,Lecturer,umer.altaf@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/111_-_Umer_Altaf_Lecturer_EE.JPG
+102,6665,Ms. Eisha Khan,Lab Engineer,eisha.khan@nu.edu.pk,ee,https://lhr.nu.edu.pk/media/Faculty/6665.png
+103,9451,Dr. Shahid Ali,Professor & HOD,shahid.ali@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/69_-_Dr._Shahid_Ali_Prof__HoD_CvL.JPG
+104,5705,Dr. Syed Ali Rizwan Bukhari,Professor,syed.ali@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/70_-_Dr._Syed_Ali_Rizwan_Professor_CvL.JPG
+105,5344,Dr. Javaid Ahmad,Associate Professor,Javaid.ahmad@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/5344-removebg-preview.jpg
+106,6275,Dr. Waseem Mirza,Associate Professor,waseem.mirza@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/09-Dr._M._Waseem_Mirza-removebg-preview.jpg
+107,6132,Dr. Muhammad Abdullah,Assistant Professor,abdullah.rana@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/73-_Dr._M._Abdullah_Asst._Prof._CvL.JPG
+108,6047,Dr. Muhammad Umar,Assistant Professor,m.umar@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/72_-_Dr._Muhammad_Umar_Asst_Prof_CvL.JPG
+109,5818,Dr. Tauqir Ahmed,Assistant Professor,tauqir.ahmed@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/71_-_Dr._Tauqir_Ahmed_Asst_Prof_CvL.JPG
+110,9513,Mr. Ali Raza Khalid,Assistant Professor,aliraza.khalid@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/76_-_Ali_Raza_Khalid_Asst_Prof_CvL.JPG
+111,4828,Mr. Irfan Khalid,Assistant Professor,irfan.khalid@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/77_-_Irfan_Khalid_Asst_Prof_CvL.JPG
+112,4592,Ms. Sarah Asif,Assistant Professor,sarah.asif@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/74-_Sarah_Asif_Asst._Prof._CvL.JPG
+113,5360,Mr. Umar Khan Niazi,Assistant Professor,umar.niazi@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/75_-_Muhammad_Umar_Khan_Niazi_Asst_Prof_CvL.JPG
+114,4300,Mr. Asim Iqbal,Lecturer,asim.iqbal@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/82_-_Asim_Iqbal_Lecturer_CvL.JPG
+115,5553,Mr. Fahad Haseeb,Lecturer,fahad.haseeb@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/81_-_Fahad_Haseeb_Lecturer_CvL.JPG
+116,9419,Mr. Irfan Ali,Lecturer,irfan.ali@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/83_-_Irfan_Ali_Lecturer_CvL.JPG
+117,6703,Mr. Mubashir Islam,Lecturer,mubashir.islam@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/6703.png
+118,5370,Mr. Shoaib Ameer,Lecturer,shoaib.ameer@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/80_-_Shoaib_Ameer_Lecturer_CvL.JPG
+119,5084,Mr. Waqas Ajmal,Lecturer,waqas.ajmal@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/79_-_Waqas_Ajmal_Lecturer_CvL_Nj4c7eP.JPG
+120,6041,Mr. Anns Tahir,Lab Engineer,anns.tahir@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/84_-_Anns_Tahir_Lab_Engineer_CvL.JPG
+121,6569,Mr. Hamza Ali,Lab Engineer,hamza.ali@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/86_-_Hamza_Ali_Lab_Engineer_CvL.JPG
+122,6571,Ms. Maham Akram,Lab Engineer,maham.akram@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/90_-_Maham_Akram_Lab_Engineer_CvL.png
+123,6573,Ms. Mahnoor,Lab Engineer,mahnoor.akram@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/88_-_Mahnoor_Lab_Engineer_CvL.png
+124,6572,Ms. Malieka Batool,Lab Engineer,malieka.batool@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/IMG_5796-removebg-preview_Uykf2b6.png
+125,6294,Ms. Muzna Anam,Lab Engineer,muzna.anam@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/85_-_Muzna_Anam_Lab_Engineer_CvL.JPG
+126,6570,Mr. Syed M Muneeb,Lab Engineer,m.muneeb@nu.edu.pk,cv,https://lhr.nu.edu.pk/media/Faculty/87_-_Syed_M._Muneeb_Lab_Engineer_CvL.JPG
+127,3924,Dr. Hamid Hassan,Professor & HOD,hamid.hassan@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/114_-_Dr._Hamid_Hassan_Prof.__HoD_MG.JPG
+128,4685,Dr. Akbar Azam,Associate Professor,akbar.azam@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/115_-_Dr._Akbar_Azam_Assoc_Prof_MG.png
+129,5014,Dr. Ammar Javed,Assistant Professor,ammar.javed@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/119-_Dr._Ammar_Javed_Asst._Prof._MG.JPG
+130,6563,Dr. Amna Farrukh,Assistant Professor,amna.farrukh@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/121_-_Dr._Amna_Farrukh_Asst_Prof_MG.JPG
+131,5816,Dr. Asif Saeed,Assistant Professor,asif.saeed@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/asif_saeed_MTtNOqS-removebg-preview.jpg
+132,5712,Dr. Brig Mujahid Hussain,Adjunct Assistant Professor,mujahid.hussain@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/123_-_Dr._Mujahid_Hussain_Asst_Prof._MG.JPG
+133,4629,Dr. Fatima Omer,Assistant Professor,fatima.omer@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/118_-_Fatima_Omer_Asst_Prof_MG.JPG
+134,6561,Dr. Komal Kamran,Assistant Professor,komal.kamran@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/122_-_Dr._Komal_Kamran_Asst_Prof_MG.JPG
+135,5423,Dr. Mian Muhammad Atif,Assistant Professor,mian.atif @nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/116_-_Dr._Mian_M._Atif_Asst._Prof._MG.JPG
+136,6426,Dr. Umer Iqbal,Assistant Professor,umer.iqbal@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/120_-_Dr._Umer_Iqbal_Asst_Prof_MG_nr59AV5.JPG
+137,9495,Dr. Zia Khan,Assistant Professor,zia.khan@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/117-_Dr._Zia_Ullah_Khan_Asst._Prof._MG.JPG
+138,4483,Mr. Aamer Allauddin,Assistant Professor,allauddin@gmail.com,fsm,https://lhr.nu.edu.pk/media/Faculty/124_-_Aamer_Allauddin_Asst_Prof_MG.JPG
+139,4647,Mr. Shakeel Ahmad,Assistant Professor,shakeel.ahmad@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/126_-_Shakeel_Ahmad_Asst_Prof_MG.JPG
+140,6720,Ms. Amina Tabassum,Lecturer,amina.tabassum@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/6720.png
+141,5517,Ms. Aroosa Safdar,Lecturer,aroosa.safdar@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/131-_Aroosa_Safdar_Lecturer_MG.JPG
+142,6383,Ms. Ayesha Arshad,Lecturer,ayesha.arshad@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/132_-_Ayesha_Arshad_Lecturer_MG.JPG
+143,5227,Ms. Beenish Arshad,Lecturer,beenish.arshad@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/128-_Beenish_Arshad_Lecturer_MG.JPG
+144,5518,Ms. Fatima Habib,Lecturer,fatima.habib@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/127_-_Fatima_Habib_Lecturer_MG.JPG
+145,5713,Mr. Salmaan Khalil Rahman,Adjunct Lecturer,salmaan.rahman@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/133-_Salmaan_Khalil_Rehman_Adj._Faculty_MG.JPG
+146,6303,Ms. Sundas Munir,Lecturer,sundas.munir@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/130-_Sundas_Munir_Lecturer_MG.JPG
+147,6115,Ms. Ghulam Fatima,Instructor,ghulam.fatima@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/134-_Ghulam_Fatima_Instructor_MG.JPG
+148,6709,Ms. Iman Ilyas,Instructor,iman.ilyas@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/6709.png
+149,6565,Ms. Irma Tariq,Instructor,irma.tariq@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/136_-_Irma_Tariq_Instructor_MG.jpg
+150,6664,Ms. Khadija Aslam,Instructor,khadija.aslam@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/6664.png
+151,6566,Ms. Noor Zahid,Instructor,noor.zahid@nu.edu.pk,fsm,https://lhr.nu.edu.pk/media/Faculty/135-_Noor_Zahid_Instructor_MG.JPG
+152,4584,Dr. Farasat Shamir,Associate Professor & HOD,farasat.shamir@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/137_-_Dr._Farasat_Shamir_Assoc._Prof_Math__HoD_SH.JPG
+153,4018,Dr. Summaira Sarfraz,Professor,sumaira.sarfraz@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/138_-_Dr._Summaira_Sarfraz_Prof_Eng.jpg
+154,4020,Dr. Akhlaq Ahmad Bhatti,Professor,akhlaq.ahmad@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/139_-_Dr._Akhlaq_Ahmad_Bhatti_Professor_Math.JPG
+155,3712,Dr. Mazhar Hussain,Professor,mazhar.hussain@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/140_-_Dr._Mazhar_Hussain_Prof_SH.JPG
+156,4332,Dr. Mubashir Qayyum,Professor,mubashir.qayyum@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/142_-_Dr._Mubashir_Qayyum_Prof_Math.JPG
+157,4250,Dr. Saman Shahid,Professor,saman.shahid@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/WhatsApp_Image_2023-06-19_at_09.52.55.jpg
+158,1250,Dr. Saeeda Zia,Associate Professor,saeeda.zia@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/143_-_Dr._Saeeda_Zia_Assoc_Prof_Math.JPG
+159,9172,Dr. Hira Iqbal,Assistant Professor,hira.iqbal@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/9172.jpg
+160,5437,Dr. Muhammad Tahir Rashid,Assistant Professor,tahir.rashid@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/146_-_Dr._Tahir_Rashid_Asst_Prof_SH.JPG
+161,9173,Dr. Tayyaba Naz,Assistant Professor,tayyaba.naz@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/145_-_Dr._Tayyaba_Naz_Asst_Prof_SH.JPG
+162,6112,Dr. Waleed Shehzad,Assistant Professor,waleed.shehzad@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/Dr._Waleed_Shehzad_Asst._Professor_-_Eng-removebg-preview.jpg
+163,4243,Dr. Zahida Mansoor,Assistant Professor,zahida.mansoor@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/144_-_Dr._Zahida_Mansoor_Asst_Professor_SH.JPG
+164,4244,Ms. Hajira Ikram Butt,Assistant Professor,hajra.ikram@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/149_-_Hajra_Ikram_Butt_Asst_Prof_English.JPG
+165,4608,Ms. Hina Firdous,Assistant Professor,hina.firdous@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/150-_Hina_Firdous_Asst._Prof._SH.JPG
+166,4242,Ms. Raheela Tariq,Assistant Professor,raheela.tariq@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/147-_Raheela_Tariq_Asst._Prof._SH.JPG
+167,4245,Mr. Zulfiqar Ali,Assistant Professor,ali.zulfiqar@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/148-_Zulfiqar_Ali_Asst._Prof._SH.JPG
+168,5438,Mr. Abdul Sattar,Lecturer,abdul.sattar@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/155_-_Abdul_Sattar_Lecturer_SH.JPG
+169,5622,Ms. Aisha Bano,Lecturer,aisha.bano@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/164_-_Aisha_Bano_Lecturer_SH.jpg
+170,5203,Ms. Ayesha Saeed,Lecturer,ayesha.saeed@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/154_-_Ayesha_Saeed_Lecturer_SH.JPG
+171,4397,Mr. Hafiz Hamza Janjua,Lecturer,hamza.janjua@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/151_-_Hafiz_M._Hamza_Janjua_Lecturer_SH.JPG
+172,6179,Ms. Iqra Rafiq,Lecturer,iqra.rafiq@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/6179.png
+173,6421,Ms. Kanwal Saleem,Lecturer,kanwal.saleem@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/160_-_Kanwal_Saleem_Lecturer_Stats.JPG
+174,6365,Mr. Muhammad Yaseen,Lecturer,m.yaseen@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/159_-_Muhammad_Yaseen_Lecturer_Math.JPG
+175,6178,Ms. Namra Fazal,Lecturer,namra.fazal@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/157-_Namra_Fazal_Lecturer_English.JPG
+176,5795,Mr. Razm-ul-Zafar,Lecturer,razm.zafar@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/156_-_Razm_Ul_Zafar_Lecturer_English.JPG
+177,5337,Ms. Sarah Ahmad,Lecturer,Sarah.ahmad@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/153_-_Sarah_Ahmad_Lecturer_SH.JPG
+178,6363,Mr. Tasaduque Hussain Shah,Lecturer,tasduque.hussain@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/158_-_Tasaduque_Hussain_Shah_Lecturer_Math.JPG
+179,6567,Ms. Mahnoor Chaudhry,Instructor,mahnoor.chaudhary@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/166-_Mahnoor_Chaudhry_Instructor_English.JPG
+180,6420,Ms. Nokhaiz Zahra,Instructor,nokhaiz.zahra@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/165_-_Nokhaiz_Zahra_Instructor_Eng.JPG
+181,6181,Ms. Rida Ahmed,Instructor,rida.ahmed@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/6181-removebg-preview.jpg
+182,6555,Ms. Aqsa Naz,Lecturer (English),aqsa.naz@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/161_-_Aqsa_Naz_Lecturer_Eng.JPG
+183,-1,Mr. Hafiz Umair Gulzar,Lecturer (Islamiat),umair.gulzar@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/163_-_Hafiz_Umair_Gulzar_Lecturer_SH.JPG
+184,6548,Ms. Rubab Arshad,Lecturer (English),rubab.arshad@nu.edu.pk,ss,https://lhr.nu.edu.pk/media/Faculty/162_-_Rubab_Arshad_Lecturer_English.JPG
